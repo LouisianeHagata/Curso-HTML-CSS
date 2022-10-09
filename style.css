@@ -1,5 +1,5 @@
 header {
-    background: #BBBBBB;
+    background: #000000;
     padding: 20px 0;
 }
 
@@ -22,14 +22,14 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #FFFFFF;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
 nav a:hover {
-    color: #C78C19;
+    color: #b96de6;
     text-decoration: underline;
 }
 
@@ -119,7 +119,7 @@ form label,form legend {
 .enviar{
     width: 40%;
     padding: 15px 0;
-    background: orange;
+    background: #b96de6;
     color: white;
     font-weight: bold;
     font-size: 18px;
@@ -130,7 +130,7 @@ form label,form legend {
 }
 
 .enviar:hover {
-    background: darkorange;
+    background: #b96de6;
     transform: scale(1.2);
 }
 
@@ -140,7 +140,7 @@ table {
 
 thead {
     background: #555555;
-    color: white;
+    color: #FFFFFF;
     font-weight: bold;
 }
 
